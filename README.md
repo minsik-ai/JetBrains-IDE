@@ -1,1 +1,1 @@
-# JetBrains-IDE-Shortcuts
+# JetBrains-IDE
