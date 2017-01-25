@@ -57,4 +57,4 @@ Push requests welcome! Tell me your favorites.
 These are the custom shortcuts I found helpful to assign.
 
 - **Ctrl + ;** : Clone Caret Below(Useful for multiline editing)
-- **Ctrl + Shift + G** : Run Gradle Task(Useful for choosing which Gradle build to run)
+- **Ctrl + Shift + G** : Run Gradle Task(Useful for choosing which Gradle build to run, for Android Studio)
