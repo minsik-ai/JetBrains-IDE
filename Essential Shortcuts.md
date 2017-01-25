@@ -2,7 +2,7 @@
 
 This is **a list of Jetbrains IDE shortcuts I use everyday.**
 
-Push requests welcome! Tell me your favorites.
+Pull requests welcome! Tell me your favorites.
 
 ##Navigating Between Windows
 
